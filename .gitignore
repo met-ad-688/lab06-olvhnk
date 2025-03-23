@@ -170,3 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 data/lightcast_job_postings.csv
+lightcast_job_postings.csv
+/home/ubuntu/lab06-olvhnk/spark-3.5.5-bin-hadoop3.tgz
+spark-3.5.5-bin-hadoop3.tgz
